@@ -2,7 +2,7 @@
 
 -----
 
-# <안녕하세요, 게임 만드는 윤지수입니다 :-) >
+# 안녕하세요, 게임 만드는 윤지수입니다 :-)
 
 # <엣지 오브 게이트 Edge of gate> 기획서
 <엣지 오브 게이트edge of gate>는 저의 첫 팀프로젝트 작품입니다.
@@ -36,12 +36,5 @@ SF- 기술적 배경
 -GDD
 
 
-
 ☎CALL: 010-4043-8715
 ☏MAIL: wowjisu@naver.com 
-
-
-1. 순서가 있는 리스트
-2. 순서가 있는 리스트
-
-[마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
