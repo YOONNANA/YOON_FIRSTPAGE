@@ -2,9 +2,9 @@
 
 -----
 
-# HI THERE🔥 저는 [윤지수] 라고 합니다.
+# HI THERE🔥 저는 "윤지수" 라고 합니다.
 
-[바로가기](https://yoonjisufirstpage.netlify.app/pages/mainpage)
+[WEB PAGE](https://yoonjisufirstpage.netlify.app/pages/mainpage)
 
 # 🌌<엣지 오브 게이트 Edge of Gate> 기획서🌌
 
