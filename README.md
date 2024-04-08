@@ -27,6 +27,13 @@
 
 
 
+# 🌟<재료아워> 기획서🌟
+<재료아워>는 저의 두 번째 팀프로젝트 작품입니다. 
+
+---
+
+🎮이 모든 작업은 [재료아워 The Hour of Ingredients](https://yoonjisufirstpage.netlify.app/pages/sub03)에서 확인하실 수 있습니다.
+
 
 ☎CALL: 010-4043-8715
 ☏MAIL: wowjisu@naver.com 
